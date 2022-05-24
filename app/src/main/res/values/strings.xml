@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">移动充电</string>
+    <string name="title_home">首页</string>
+    <string name="title_user">我的</string>
+    <string name="profilePhoto">头像</string>
+    <string name="vipMedal">会员勋章</string>
+    <string name="historyOrder">历史订单</string>
+    <string name="card_shop">卡券商城</string>
+
+    <string name="signIn">登录</string>
+    <string name="app_introduction">移动充电·让出行不负初心</string>
+    <string name="SignIn_Message_Password">输入密码</string>
+
+    <string name="confirmLogin">确认登录</string>
+    <string name="agreementOfPrivacy">阅读并同意《移动充电服务协议》《隐私政策》</string>
+    <string name="wechat_signIn">微信登录</string>
+    <string name="QQ_signIn">QQ号登录</string>
+    <string name="Alipay_signIn">支付宝登录</string>
+    <string name="Email_signIn">邮箱登录</string>
+    <string name="Phone_signIn">手机账号一键登录</string>
+    <string name="noAccount">还没有账号？点击一键注册</string>
+
+    <string name="register">新用户注册</string>
+    <string name="register_Message_Phone">请输入手机号</string>
+    <string name="register_Message_Email">请输入邮箱地址</string>
+    <string name="register_Message_Password">输入密码（至少为6位，包含数字和字母）</string>
+    <string name="Message_Password2">再次确认密码</string>
+    <string name="nextStep">下一步</string>
+
+    <string name="detail">详情</string>
+
+</resources>
